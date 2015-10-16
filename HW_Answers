@@ -19,7 +19,7 @@ Two girls, one cup of comedy, Best of Burlesque, Two become One, Urinetown, Le H
 
 4. Select the average price of all shows.
 select avg(price) from shows;
-15.96
+15.9569230769231
 
 5. Select the price of the least expensive show.
 select min(price) from shows;
