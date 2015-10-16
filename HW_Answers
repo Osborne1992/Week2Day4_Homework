@@ -30,7 +30,7 @@ select sum(price) from shows;
 207.44
 
 7. Select the sum of the price of all shows whose prices is less than £20.
-select sum(price) from show where price < 20.00;
+select sum(price) from shows where price < 20.00;
 142.45
 
 8. Select the name and price of the most expensive show.
